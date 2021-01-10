@@ -218,3 +218,5 @@ pip-log.txt
 .ftpconfig
 .vscode/sftp.json
 
+# IntelliJ
+.idea
